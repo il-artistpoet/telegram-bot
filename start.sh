@@ -1,0 +1,1 @@
+python3 Manual_PleinAir_bot.py
